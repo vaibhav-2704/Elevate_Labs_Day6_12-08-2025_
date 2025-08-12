@@ -95,5 +95,3 @@ ORDER BY year, month;
 
 ***SALOORA VAIBHAV***
 
-Do you want me to also **add example output tables or screenshots** from MySQL Workbench into this README so it looks more professional on GitHub? That would make it visually stronger.
-```
